@@ -8,3 +8,7 @@
 -Shimmer effect while loading
 -Real data powered separate Profile page, search results and explore pages (ex. Trending) and many more..
 -This project is a completion mark for the NAMASTE REACT course by Akshay Saini sir.
+
+# Demo App 
+- https://namaste-youtue-f1y6q6mth-shubhamsagar5s-projects.vercel.app/
+- https://namaste-youtue.vercel.app/
