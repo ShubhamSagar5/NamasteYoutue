@@ -24,7 +24,7 @@ const Head = () => {
       if(searchCache[searchQuery]){
         setSuggestSuggestion(searchCache[searchQuery])
       }else{
-         getSearchResults();
+        //  getSearchResults();
       }
     }, 200);
 
@@ -69,7 +69,7 @@ const Head = () => {
         />
         <a href="/">
           <img
-            className="h-8 mx-2 cursor-pointer"
+            className="h-5 md:h-8 md:mx-2 cursor-pointer"
             src="https://vectorseek.com/wp-content/uploads/2021/01/YouTube-Logo-Vector.png"
             alt="youtube icon"
           />
